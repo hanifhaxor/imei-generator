@@ -5,7 +5,7 @@ import random
 # Src: https://github.com/bstein/py-imei-generator
 
 # config
-imei = ''
+imei = '86622805510'
 # end config
 
 def checksum(number, alphabet='0123456789'):
